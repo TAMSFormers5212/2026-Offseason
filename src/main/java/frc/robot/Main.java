@@ -24,6 +24,8 @@ public final class Main
     {
 
         public pull_request1 = "First Pull Request!"
+
+        public pull_request2 = "Second Pull Request!"
         RobotBase.startRobot(Robot::new);
     }
 }

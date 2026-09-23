@@ -20,12 +20,12 @@ public final class Main
     * <p>
     * If you change your main Robot class (name), change the parameter type.
     */
+
     public static void main(String... args)
     {
 
-        public pull_request1 = "First Pull Request!"
+        
 
-        public pull_request2 = "Second Pull Request!"
         RobotBase.startRobot(Robot::new);
     }
 }

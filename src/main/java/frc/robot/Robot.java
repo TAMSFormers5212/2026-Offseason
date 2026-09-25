@@ -10,6 +10,9 @@ import edu.wpi.first.wpilibj2.command.Command;
 import edu.wpi.first.wpilibj2.command.CommandScheduler;
 
 
+// --- TO DO LIST: (VERY IMPORTANT!!!) ---
+// Make tristan contributor fr fr
+// also clement is a goofy ppopyhead
 
 /**
  * The methods in this class are called automatically corresponding to each mode, as described in

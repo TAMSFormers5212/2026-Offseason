@@ -18,6 +18,8 @@ class ExampleTest
         assertEquals("robot", "Robot".toLowerCase());
     }
     
+    // Training using VS Git. Kaushik is teaching.........
+    
     @Test
     @DisplayName("2 + 2 should return 4")
     void twoPlusTwoShouldEqualFour()
